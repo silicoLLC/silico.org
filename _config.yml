@@ -1,0 +1,69 @@
+# Site setings
+name: 'Daniel Vera'
+description: 'Consultant<br>Computational Biologist'
+meta_description: 'Computational Biologist, Research Fellow @ Harvard Medical School'
+logo:
+# Author image is used in site sidebar and greetings in the home page hero text
+author:
+  image: 'authorimage.jpg'
+  greetings: "Hi there! My name is Daniel Vera. I'm a freelance computational and molecular biologist based in Boston."
+favicon: 'assets/images/favicon.ico'
+baseurl:
+production_url: https://royce.netlify.com/
+disqus: 'silicollc'
+mailchimp_url: 'https://silico.us5.list-manage.com/subscribe/post?u=8eca20a1e12009844d6caeace&amp;id=6e817b0847'
+# Add your GA Tracking Id
+ga_analytics:
+
+# Contact form setings
+email: daniel@silico.org
+contact_page_description: "Send a message!"
+thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
+#bio: "I am a computational biologist with 10 years of extensive dry and wet research experience. Throughout my career, I have analyzed and integrated genomic and other biological information to understand processes driving genome regulation, disease, and phenotypic variation. I apply intensive exploratory data analysis, data visualization, and statistical approaches to address large-scale problems using genomic, epigenomic, transcriptomic, and proteomic data. I rely heavily on my inherent resourcefulness to tackle new and challenging problems, while simultaneously highly-collaborative and capable of communicating extremely well with individuals from diverse areas of expertise."
+# Social links
+twitter: '_Daniel_Vera'
+facebook: 'silicollc'
+github: 'dvera'
+#codepen: 'username'
+#dribbble: 'username'
+#medium: '@username'
+#instagram: 'username'
+#pinterest: 'username'
+#linkedin: 'dlvera'
+#producthunt: '@username'
+#quora: 'username'
+
+# Navigation
+navigation:
+  - text: Home
+    url: /
+  - text: hire
+    url: /hire
+  - text: collaborate
+    url: /collaborate
+  - text: résumé 
+    url: /cv
+  - text: Contact Me
+    url: /contact
+
+# Required Plugins
+plugins_dir:
+  - jekyll-paginate
+  - jekyll-tagsgenerator
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Pagination
+paginate: 5
+paginate_path: /page:num/
+
+# Permalinks
+permalink: /:title
+
+# Other
+markdown: kramdown
+
+# Sass
+sass:
+  sass_dir: _sass
+  style: compressed
