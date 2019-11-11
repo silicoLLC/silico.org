@@ -18,7 +18,7 @@ title: Résumé
 - Python & Perl
 - Adobe Photoshop & Illustrator
 
-#### Data Analysis Skills
+#### Data Analysis and Lab Production Skills
 - WGS (variation)
 - RNA-seq
 - ATAC-seq
@@ -49,6 +49,7 @@ title: Résumé
 
 # Education
 **Doctor of Philosophy (PhD)** in Cell and Molecular Biology, Florida State University, 2014
+
 **Bachelor of Science (BS)** in Biology, Florida State University, 2010
 
 # Experience
