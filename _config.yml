@@ -1,6 +1,6 @@
 # Site setings
 name: 'Daniel Vera'
-description: 'Consultant<br>Computational Biologist'
+description: 'Consultant<br> Computational Biologist'
 meta_description: 'Computational Biologist, Research Fellow @ Harvard Medical School'
 logo:
 # Author image is used in site sidebar and greetings in the home page hero text
@@ -9,11 +9,11 @@ author:
   greetings: "Hi there! My name is Daniel Vera. I'm a freelance computational and molecular biologist based in Boston."
 favicon: 'assets/images/favicon.ico'
 baseurl:
-production_url: https://royce.netlify.com/
+production_url: https://silico.netlify.com/
 disqus: 'silicollc'
 mailchimp_url: 'https://silico.us5.list-manage.com/subscribe/post?u=8eca20a1e12009844d6caeace&amp;id=6e817b0847'
 # Add your GA Tracking Id
-ga_analytics:
+ga_analytics: 'UA-120059323-1'
 
 # Contact form setings
 email: daniel@silico.org
