@@ -39,3 +39,6 @@ I offer genomic data analysis services for a wide range of data types:
 
 #### Grant Proposals
 I provide assistance with the design and preparation of proposals for private and public funding.
+
+# Contact me
+If you are interested in working with me, let's discuss your project. [Contact](/contact) me!

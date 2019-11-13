@@ -6,6 +6,32 @@ title: Résumé
 
 # Skills
 
+#### Bench and Bioinformatic Skills
+- DNA-seq
+- RNA-seq
+- ATAC-seq
+- MNase-seq
+- DNase-seq
+- ChIP-seq
+- Hi-C, 4C
+- WGBS
+- De novo assembly/annotation
+- Targeted sequencing
+- Shotgun metagenomics
+- 16s amplicon sequencing
+- Repli-seq
+- CRISPR(GeCKO/CRISPRa/CRISPRi) screens
+- Pacbio/nanopore sequencing
+- Molecular biology
+- Assay development
+- Illumina sequencing
+- Nanopore sequencing
+- FISH, immunofluorescence
+- Fluorescence Microscopy
+- Sequence Capture
+- Microarray hybridization
+- Cloning, plasmid design
+
 #### Computational Proficiencies
 - R & Bioconductor
 - Linux & Bash
@@ -17,35 +43,6 @@ title: Résumé
 - Parallel/Cluster Computing
 - Python & Perl
 - Adobe Photoshop & Illustrator
-
-#### Data Analysis and Lab Production Skills
-- WGS (variation)
-- RNA-seq
-- ATAC-seq
-- MNase-seq
-- DNase-seq
-- ChIP-seq
-- De novo assembly/annotation
-- WGBS
-- Targeted sequencing
-- Shotgun metagenomics
-- 16s amplicon sequencing
-- Hi-C, 4C
-- Repli-seq
-- CRISPR(GeCKO/CRISPRa/CRISPRi) screens
-- Pacbio/nanopore sequencing
-- RNA/Methyl/ChIP microarray analysis
-
-#### Laboratory Skills
-- Molecular biology
-- Assay development
-- Illumina sequencing
-- Nanopore sequencing
-- FISH, immunofluorescence
-- Fluorescence Microscopy
-- Sequence Capture
-- Microarray hybridization
-- Cloning, plasmid design
 
 # Education
 **Doctor of Philosophy (PhD)** in Cell and Molecular Biology, Florida State University, 2014
@@ -64,19 +61,19 @@ screening.
 *Client: Life Biosciences, LLC*
 
 - Generated **second and third-generation sequencing genome sequencing** and **RNA-seq** data on a novel fungus genome displaying clinically-desirable enzymatic activities. Completely **assembled** (telomere to telomere) and **annotated** the genome to identify putative protein-coding genes. Combined the annotated genome with **shotgun proteomics** to identify candidate proteins responsible for the desirable properties for subsequent biochemical screening in order to enable the development of a recombinantly-manufactured therapeutic.
-*Client: Liberty Biosecurity, LLC*
+*Client: Confidential*
 
 - Developed a novel, rapid, equipment-free, highly-efficient DNA extraction technique deployable in space. Applied this DNA extraction technique on low-biomass environmental samples and performed **shotgun metagenomics** for microbial species abundance measurements and source-tracking contaminants of sterilization-resistant bacteria isolated from NASA spacecraft assembly facilities. Manuscript under review.
 *Client: Liberty Biosecurity, LLC.*
 
-- Applied illumina sequencing, and **Hi-C** scaffolding, to **assemble** (telomere to telomere) the muscadine grape genome. Manuscript in preparation.
+- Applied illumina sequencing, and **Hi-C** scaffolding, to **assemble** (telomere to telomere) a large plant genome. Manuscript in preparation.
 *Client: Florida A&M University.*
 
 - Presented progress and findings directly to Scientific Advisory Boards, Executive Boards, and Chief
 Executive/Scientific Officers.
 
 ## Research Fellow, Harvard Medical School
-I am currently a Research Fellow at Harvard Medical School, where I am studying the **molecular mechanisms of aging**. I generate, analyze, and integrate large-scale genomic datasets to understand the molecular mechanisms of aging with the ultimate goal of exploiting this information to develop **anti-aging interventions**.
+I am currently a Research Fellow at Harvard Medical School. I generate, analyze, and integrate large-scale genomic datasets to understand the **molecular mechanisms of aging** with the ultimate goal of exploiting this information to develop **anti-aging interventions**.
 
 #### Awards
 - Awarded the Harvard Translational Research in Aging Training Program (T32) Postdoctoral Award.
@@ -94,7 +91,7 @@ subjected to AAV-mediated transient overexpression of the Yamanaka factors. [Lu,
 mouse to enable high-throughput chemical and genetic screens.
 
 ## Director, Center for Genomics, Florida State University
-From 2015 to 2018, I started and directed the **Center for Genomics** at Florida State University. I provided genomic data generation and analysis services for researchers, ran wo rkshops on data generation and analysis, and consulted on all aspects of genomic experiments, including experimental design. I developed new pipelines and algorithms to analyze and integrate diverse types of data and generated much of the data for these projects.
+From 2015 to 2018, I started and directed the **Center for Genomics** at Florida State University. I provided genomic data generation and analysis services for researchers, ran workshops on data generation and analysis, and consulted on all aspects of genomic experiments, including experimental design. I developed new pipelines and algorithms to analyze and integrate diverse types of data and generated much of the data for these projects.
 
 #### Awards
 - Awarded (co-PI) an NSF Plant Genome Research Program Grant ([IOS #1444532](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1444532)). Nuclease Profiling as an Integrative Resource for Maize Epigenomics (2015 - 2019).

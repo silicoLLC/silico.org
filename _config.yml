@@ -22,8 +22,9 @@ thankyou_page_description: "Your message has been successfully sent. We will con
 #bio: "I am a computational biologist with 10 years of extensive dry and wet research experience. Throughout my career, I have analyzed and integrated genomic and other biological information to understand processes driving genome regulation, disease, and phenotypic variation. I apply intensive exploratory data analysis, data visualization, and statistical approaches to address large-scale problems using genomic, epigenomic, transcriptomic, and proteomic data. I rely heavily on my inherent resourcefulness to tackle new and challenging problems, while simultaneously highly-collaborative and capable of communicating extremely well with individuals from diverse areas of expertise."
 # Social links
 twitter: '_Daniel_Vera'
-facebook: 'silicollc'
+#facebook: 'silicollc'
 github: 'dvera'
+email: daniel@silico.org
 #codepen: 'username'
 #dribbble: 'username'
 #medium: '@username'
@@ -35,13 +36,13 @@ github: 'dvera'
 
 # Navigation
 navigation:
-  - text: Home
+  - text: bio
     url: /
+  - text: blog
+    url: /blog
   - text: hire
     url: /hire
-  - text: collaborate
-    url: /collaborate
-  - text: résumé 
+  - text: résumé
     url: /cv
   - text: Contact Me
     url: /contact
