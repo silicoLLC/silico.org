@@ -17,3 +17,5 @@ If your project does not qualify for a collaboration, you may be able to [hire](
 ### Interested in working for me?
 
 I am always seeking talented, motivated trainees and aspiring bioinformaticians to collaborate with, both at [Harvard](https://genetics.med.harvard.edu/sinclair/) and at [silico](/hire). Remote positions are available in some situations. [Contact me](/contact) for more information.
+
+<a class="twitter-timeline" data-width="800" data-height="400" data-theme="dark" data-link-color="#FAB81E" href="https://twitter.com/_Daniel_Vera?ref_src=twsrc%5Etfw">Tweets by _Daniel_Vera</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

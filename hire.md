@@ -1,8 +1,10 @@
 ---
 layout: page
 title: silico LLC
-#featured_image: /assets/images/pages/about.jpg
+#featured_image: /assets/images/silicoLogoSmall.gif
 ---
+![logo](/assets/images/silicoLogoSmall.gif){: width="250px"}
+
 
 I am a computational biologist with 10 years of extensive dry and wet research experience. Throughout my career, I have analyzed and integrated genomic and other biological information to understand processes driving genome regulation, disease, and phenotypic variation. I apply intensive exploratory data analysis, data visualization, and statistical approaches to address large-scale problems using genomic, epigenomic, transcriptomic, and proteomic data. I rely heavily on my inherent resourcefulness to tackle new and challenging problems, while simultaneously highly-collaborative and capable of communicating extremely well with individuals from diverse areas of expertise.
 

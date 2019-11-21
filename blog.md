@@ -7,6 +7,7 @@ title: Blog
 
 
 <main id="main" class="site-main">
+
 <!-- Posts Index -->
 <div class="post-feed inner">
     <!-- {% if page.url == "/" %} -->

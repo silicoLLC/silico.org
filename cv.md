@@ -58,16 +58,12 @@ I am sole owner and employee of silico, a Massachusetts-based consulting firm. I
 Combined in-house-generated **shotgun proteomics** data and publicly-available **GWAS/RNA-seq** data to
 score and prioritize candidate proteins for chemical/recombinant synthesis and cell-based functional
 screening.
-*Client: Life Biosciences, LLC*
 
 - Generated **second and third-generation sequencing genome sequencing** and **RNA-seq** data on a novel fungus genome displaying clinically-desirable enzymatic activities. Completely **assembled** (telomere to telomere) and **annotated** the genome to identify putative protein-coding genes. Combined the annotated genome with **shotgun proteomics** to identify candidate proteins responsible for the desirable properties for subsequent biochemical screening in order to enable the development of a recombinantly-manufactured therapeutic.
-*Client: Confidential*
 
 - Developed a novel, rapid, equipment-free, highly-efficient DNA extraction technique deployable in space. Applied this DNA extraction technique on low-biomass environmental samples and performed **shotgun metagenomics** for microbial species abundance measurements and source-tracking contaminants of sterilization-resistant bacteria isolated from NASA spacecraft assembly facilities. Manuscript under review.
-*Client: Liberty Biosecurity, LLC.*
 
 - Applied illumina sequencing, and **Hi-C** scaffolding, to **assemble** (telomere to telomere) a large plant genome. Manuscript in preparation.
-*Client: Florida A&M University.*
 
 - Presented progress and findings directly to Scientific Advisory Boards, Executive Boards, and Chief
 Executive/Scientific Officers.
